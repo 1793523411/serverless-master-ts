@@ -1,0 +1,10 @@
+#components-layout-demo-side .logo {
+  height: 32;
+  /* background: rgba(255, 255, 255, 0.2); */
+  background-color: #fff;
+  margin: 16px;
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}

@@ -1,0 +1,12 @@
+@import '~antd/dist/antd.css';
+html,body {
+  background-color: #f1f8fd;
+  margin: 0 auto;
+}
+
+
+span::selection,p::selection,pre::selection,input::selection,img::selection,div::selection,li::selection,em::selection,a::selection,i::selection,h1::selection,h2::selection,strong::selection ,td::selection,th::selection,footer::selection,label::selection,textarea::selection ,br::selection  {
+    color:#FFFFFF;
+    background-color:#e66049;
+    text-shadow:none;
+}
