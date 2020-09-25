@@ -4,7 +4,7 @@
 
 UI:antd
 
-图标：Echart
+图表：Echart
 
 框架：react
 
