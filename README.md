@@ -11,3 +11,9 @@ UI:antd
 数据库：阿里云表格存储
 
 语言：typescript
+
+## 展示地址
+
+![](public/group-workbench.gif)
+
+[展示地址(已经下线，只有gif展示)](https://wx-xly-1301545895.cos.ap-beijing.myqcloud.com/web/group-workbench.gif)
